@@ -1,0 +1,11 @@
+{"level":"INFO","time":"2023-06-06T20:21:02.734+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T09:06:06.757+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T09:07:08.822+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T11:40:11.813+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T11:49:27.372+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T12:22:15.707+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T15:21:26.647+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T15:26:17.133+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-07T15:31:09.999+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-06-08T11:00:02.879+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2023-06-08T11:05:16.010+0800","caller":"controller/user.go:52","msg":"mysql.Login(&u) failed","error":"用户不已存在"}
